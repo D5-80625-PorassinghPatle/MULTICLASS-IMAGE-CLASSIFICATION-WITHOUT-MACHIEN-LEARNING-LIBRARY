@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+dataset
 build/
 develop-eggs/
 dist/
@@ -19,6 +20,7 @@ lib64/
 parts/
 sdist/
 var/
+logs
 wheels/
 pip-wheel-metadata/
 share/python-wheels/
@@ -44,6 +46,7 @@ htmlcov/
 .coverage
 .coverage.*
 .cache
+logs
 nosetests.xml
 coverage.xml
 *.cover
