@@ -36,5 +36,6 @@ try:
     # Log results
     logging.info(f"Accuracy: {accuracy}")
 
+
 except SensorException as e:
     logging.error(f"Error occurred: {e.error_message}")
