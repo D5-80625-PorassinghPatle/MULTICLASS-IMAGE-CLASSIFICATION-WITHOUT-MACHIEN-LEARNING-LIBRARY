@@ -1,6 +1,19 @@
 # MULTICLASS-IMAGE-CLASSIFICATION-WITHOUT-MACHIEN-LEARNING-LIBRARY
 
-Step 1 : Loading Data set (using simple path)
 
-        Create a data loader script 
-        
+Dataset Link :
+
+Set the correct data path in Config.py File after downloading Dataset.
+
+Please run Requirement.txt to install all the required library
+
+run Main.py -- (initialize model and get the accuracy )
+
+To use model for Unseen Data set please Run Image_classifier.py
+
+Unseen Data is provided in the Git Hub 
+
+above line of code will generate the csv file with file name , path , and predicted result
+
+Thank You .
+
